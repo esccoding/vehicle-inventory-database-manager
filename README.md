@@ -47,13 +47,11 @@ Via the 'View' sub-menu, two different view configurations are made available:
 ---
 
 ```Save```
-> Writes the current database dictionary to the ```inventory.txt``` file
+> Writes the current database dictionary to a new text file called ```inventory.txt```
 
 ```Quit```
 > Exits the program
 
 
 ## How to Run
-The core files for version ```v1.0.0``` of this program can be downloaded under Releases -->
-
-Once downloaded, the program can be executed using the ```Vehicle Inventory Database Manager.exe``` file.
+To run this program, simply download the ```vehicle-inventory-database-manager.exe``` file under "Releases" and double-click on the file once the download completes.
