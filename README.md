@@ -10,7 +10,7 @@ This program was built as my final portfolio project in my <strong>ITS320 - Basi
 
 The UX centers around a main menu containing keywords that users can enter into the console to execute the various functions of the program.
 
-/// main-menu
+![main-menu.png](images/main-menu.png)
 
 The menu options perform the following functions:
 
@@ -37,12 +37,12 @@ Via the 'View' sub-menu, two different view configurations are made available:
 ```ID```
 > Prints out a list of dictionary keys corresponding to each of the vehicle stock numbers present in the database
 
-/// view-ID
+![main-menu.png](images/view-ID.png)
 
 ```Full```
 > Prints out each vehicle stock number in the database, along with details about the vehicle associated with it
 
-/// view-full
+![main-menu.png](images/view-full.png)
 
 ---
 
